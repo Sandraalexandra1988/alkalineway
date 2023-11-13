@@ -7,7 +7,7 @@ import ImageCarousel from '../components/ImageCarousel'
 const HomeScreen = () => {
   return (
     <>
-    <ImageCarousel test/>
+    <ImageCarousel/>
 
       
     </>
